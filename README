@@ -1,0 +1,6 @@
+Small Bukkit plugin to allow copying of map items, to allow sharing of identical maps amongst multiple players
+
+Command: /copymap
+
+The command copies the currently held map, provided the player is near a workbench and has the required materials to craft a new map (8 paper, 1 compass) in his inventory
+The copied map is dropped at the location of the player
